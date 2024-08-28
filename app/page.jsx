@@ -1,3 +1,4 @@
+import React from 'react';
 import { Button } from "@/components/ui/button";
 import { FiDownload } from "react-icons/fi";
 
@@ -5,17 +6,18 @@ import { FiDownload } from "react-icons/fi";
 import Social from "@/components/Social";
 import Photo from "@/components/Photo";
 import Stats from "@/components/Stats";
+import TypewriterEffect from "@/components/TypewriterEffect";
 
 const Home = () => {
   return (
-    <section className="h-full">
-      <div className="container mx-auto h-full">
-        <div className="flex flex-col xl:flex-row items-center justify-between xl:pt-8 xl:pb-24">
+    <section className="min-h-screen flex flex-col">
+      <div className="container mx-auto flex-grow flex items-center">
+        <div className="flex flex-col xl:flex-row items-center justify-between w-full">
           {/* text */}
-          <div className="text-center xl:text-left order-2 xl:order-none">
-            <span className="text-xl">Software Developer</span>
+          <div className="text-center xl:text-left order-2 xl:order-none flex flex-col">
+            <TypewriterEffect />
             <h1 className="h1 mb-6">
-              Hello I'm <br /> <span className="text-accent">Luke Coleman</span>
+              Hello I'm <br /> <span className="text-accent">Ivan Rodriguez</span>
             </h1>
             <p className="max-w-[500px] mb-9 text-white/80">
               I excel at crafting elegant digital experiences and I am

@@ -19,11 +19,11 @@ const about = {
   info: [
     {
       fieldName: "Name",
-      fieldValue: "Luke Coleman",
+      fieldValue: "Ivan Rodriguez",
     },
     {
       fieldName: "Phone",
-      fieldValue: "(+40) 321 654 678",
+      fieldValue: "(+1) 307 429 38 17",
     },
     {
       fieldName: "Experience",
