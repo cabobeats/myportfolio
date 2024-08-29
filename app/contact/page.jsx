@@ -93,7 +93,7 @@ const Contact = () => {
             <form onSubmit={handleSubmit} className="flex flex-col gap-6 p-8 bg-gradient-to-br from-gray-900 to-gray-800 rounded-xl shadow-lg">
               <h2 className="text-4xl font-bold text-accent mb-4">Let's Collaborate</h2>
               <p className="text-gray-300 mb-6">
-                Share your project details, and I'll be thrilled to explore how we can bring your vision to life.
+                Share your project details, and I'll be thrilled to explore how we can bring your vision to life. Btw, if you are curious, this little form is being used with a custom integration with Systeme.io and their API, the same could be used with any other platform 
               </p>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <Input type="text" name="firstname" placeholder="First Name" value={formData.firstname} onChange={handleChange} required />

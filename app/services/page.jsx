@@ -15,21 +15,21 @@ const services = [
     num: "02",
     title: "Web Development",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque tenetur.",
+      "We Bring Your Web Applications ideas to life, while mainting lean and easy to scale code, with robust and cutting edge libraries.",
     href: "",
   },
   {
     num: "03",
     title: "GHL Assitance",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque tenetur.",
+      "Need help with Snapshots, GHL integrations, Chatbots with AI, ZapyChat, Any intricate challenge with GHL, we got you",
     href: "",
   },
   {
     num: "04",
     title: "SEO",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque tenetur.",
+      "We are very good at creating SEO applications so we drink our own juice, we can set up everything from the ground to create the best app SEO friendly with google.",
     href: "",
   },
 ];
