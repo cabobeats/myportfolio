@@ -6,21 +6,21 @@ import Link from "next/link";
 const services = [
   {
     num: "01",
+    title: "Integrations",
+    description:
+      "We help you bring to life these crazy ideas you have in your mind with tools like Zappier, Make or even more indept tools like custom N8N, Active Pieces or Trigger.dev",
+    href: "",
+  },
+  {
+    num: "02",
     title: "Web Development",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque tenetur.",
     href: "",
   },
   {
-    num: "02",
-    title: "UI/UX Design",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque tenetur.",
-    href: "",
-  },
-  {
     num: "03",
-    title: "Logo Design",
+    title: "GHL Assitance",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque tenetur.",
     href: "",

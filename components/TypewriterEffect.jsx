@@ -4,9 +4,10 @@ import React, { useState, useEffect } from 'react';
 
 const titles = [
   "Software Developer",
+  "Integrations Expert",
   "Marketer",
   "Copywriter",
-  "Video Editor",
+  "Dev Consultant",
   "AI Consultant"
 ];
 

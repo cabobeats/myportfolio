@@ -15,7 +15,7 @@ import { SiTailwindcss, SiNextdotjs } from "react-icons/si";
 const about = {
   title: "About me",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates quibusdam, sunt explicabo inventore.",
+    "I love being competitive that's why I love training Jiu Jitsu, but also like to live stress-free, that's why I practice Yoga.",
   info: [
     {
       fieldName: "Name",
@@ -27,19 +27,19 @@ const about = {
     },
     {
       fieldName: "Experience",
-      fieldValue: "12+ Years",
+      fieldValue: "4+ Years",
     },
     {
       fieldName: "Skype",
-      fieldValue: "luke.01",
+      fieldValue: "live:cabsix1",
     },
     {
       fieldName: "Nationality",
-      fieldValue: "American",
+      fieldValue: "Mexican",
     },
     {
       fieldName: "Email",
-      fieldValue: "luke.01@gmail.com",
+      fieldValue: "info@ivandeveloper.xyz",
     },
     {
       fieldName: "Freelance",
@@ -57,7 +57,7 @@ const experience = {
   icon: "/assets/resume/badge.svg",
   title: "My experience",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates quibusdam, sunt explicabo inventore.",
+    "I've been working as a Automations Specialist since 2020, learning the most prominent changes with all the code and no-code platforms",
   items: [
     {
       company: "Tech Solutions Inc.",
@@ -97,7 +97,7 @@ const education = {
   icon: "/assets/resume/cap.svg",
   title: "My education",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates quibusdam, sunt explicabo inventore.",
+    "I invested Time and Money to learn the best skills and also I keep nurturing myself with up to date skills that I should have.",
   items: [
     {
       institution: "Online Course Platform",
