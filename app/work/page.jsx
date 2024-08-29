@@ -42,6 +42,17 @@ const projects = [
     live: "https://typebeat-ranker.com",
     github: "",
   },
+  {
+    num: "03",
+    category: "Local Business Finder",
+    title: "project 3",
+    description:
+      "This is a Simple Business FInder anyone can use, just simple straight to point application you can use to find contacts using the google places API, Geocoding API and Google Maps Javascript API",
+    stack: [{ name: "React.js" }, { name: "Tailwind.css" }, { name: "Node.js" }],
+    image: "/assets/work/localbusinessfinder.png",
+    live: "https://www.localbusinessfinder.xyz/",
+    github: "",
+  },
 
 ];
 
