@@ -9,7 +9,7 @@ import {
   FaNodeJs,
 } from "react-icons/fa";
 
-import { SiTailwindcss, SiNextdotjs } from "react-icons/si";
+import { SiZapier, SiTailwindcss, SiNextdotjs } from "react-icons/si";
 
 // about data
 const about = {
@@ -60,35 +60,26 @@ const experience = {
     "I've been working as a Automations Specialist since 2020, learning the most prominent changes with all the code and no-code platforms",
   items: [
     {
-      company: "Tech Solutions Inc.",
-      position: "Full Stack Developer",
-      duration: "2022 - Present",
+      company: "Legion Beats LLC",
+      position: "Full Stack Developer, Integrations Manager",
+      duration: "2023 - Present",
     },
     {
-      company: "Web Design Studio",
-      position: "Front-End Developer Intern",
-      duration: "Summer 2021",
+      company: "Contracting Empire SRL",
+      position: "Integration Expert, Full Stack Developer",
+      duration: "2024 - Present",
     },
     {
-      company: "E-commerce Startup",
-      position: "Freelance Web Developer",
-      duration: "2020 - 2021",
+      company: "Nurturing.io",
+      position: "Integration Expert, Full Stack Developer + GHL Specialist",
+      duration: "2024 - Present",
     },
     {
-      company: "Tech Academy",
-      position: "Teaching Assistant",
-      duration: "2019 - 2020",
+      company: "Blue Ocean Records LLC",
+      position: "Producer and CEO",
+      duration: "2019 - 2023",
     },
-    {
-      company: "Digital Agency",
-      position: "UI/UX Designer",
-      duration: "2018 - 2019",
-    },
-    {
-      company: "Software Development Firm",
-      position: "Junior Developer",
-      duration: "2017 - 2018",
-    },
+ 
   ],
 };
 
@@ -136,11 +127,15 @@ const education = {
 const skills = {
   title: "My skills",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates quibusdam, sunt explicabo inventore.",
+    "I learned over this years no code solutions such as Zappier, Make.com, N8N, Active Pieces, Trigger.dev and also Code Solutions from scratch, which allow me to navigate easily and make more custom integrations ",
   skillList: [
     {
       icon: <FaHtml5 />,
       name: "html 5",
+    },
+    {
+      icon: <SiZapier />,
+      name: "Zapier",
     },
     {
       icon: <FaCss3 />,

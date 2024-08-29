@@ -26,8 +26,8 @@ const projects = [
     title: "project 1",
     description:
       "Integrated GHL with Spotify so users can have their own album picture once they submitted their own Spotify Link",
-    stack: [{ name: "Html 5" }, { name: "Css 3" }, { name: "Javascript" }],
-    image: "/assets/work/thumb1.png",
+    stack: [{ name: "Make.com" }, { name: "GHL" }, { name: "Custom Webhooks" }],
+    image: "/assets/work/screenshot.png",
     live: "https://us1.make.com/190085/scenarios/1345844/edit",
     github: "",
   },
@@ -38,21 +38,11 @@ const projects = [
     description:
       "Created a SAAS application from scratch, Authentication, Database, React, Node.js, Tailwind.css, and Rapid API",
     stack: [{ name: "Next.js" }, { name: "Tailwind.css" }, { name: "Node.js" }],
-    image: "/assets/work/thumb2.png",
+    image: "/assets/work/typebeat-ranker.png",
     live: "https://typebeat-ranker.com",
     github: "",
   },
-  {
-    num: "03",
-    category: "frontend",
-    title: "project 3",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate magnam modi.",
-    stack: [{ name: "Next.js" }, { name: "Tailwind.css" }],
-    image: "/assets/work/thumb3.png",
-    live: "",
-    github: "",
-  },
+
 ];
 
 const Work = () => {
