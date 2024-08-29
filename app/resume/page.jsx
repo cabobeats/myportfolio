@@ -9,7 +9,7 @@ import {
   FaNodeJs,
 } from "react-icons/fa";
 
-import { SiZapier, SiTailwindcss, SiNextdotjs } from "react-icons/si";
+import { SiGooglesheets, SiMake, SiZapier, SiTailwindcss, SiNextdotjs } from "react-icons/si";
 
 // about data
 const about = {
@@ -136,6 +136,14 @@ const skills = {
     {
       icon: <SiZapier />,
       name: "Zapier",
+    },
+    {
+      icon: <SiMake />,
+      name: "Make.com",
+    },
+    {
+      icon: <SiGooglesheets />,
+      name: "Google Sheets",
     },
     {
       icon: <FaCss3 />,
