@@ -71,7 +71,7 @@ const experience = {
     },
     {
       company: "Nurturing.io",
-      position: "Integration Expert, Full Stack Developer + GHL Specialist",
+      position: "Integration Expert, Full Stack Developer",
       duration: "2024 - Present",
     },
     {
